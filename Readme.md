@@ -24,7 +24,7 @@ A simple, yet powerful raytracer implemented in Rust. This project demonstrates 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rust-raytracer.git
+   git clone https://github.com/cschladetsch/rust-raytracer.git
    cd rust-raytracer
    ```
 
