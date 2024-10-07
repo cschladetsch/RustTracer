@@ -4,7 +4,7 @@ A simple, yet powerful raytracer implemented in Rust. This project demonstrates 
 
 ## Sample
 
-![Image](resources/untitled.png)
+![Image](resources/Untitled.png)
 
 
 ## Features
