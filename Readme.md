@@ -2,6 +2,11 @@
 
 A simple, yet powerful raytracer implemented in Rust. This project demonstrates basic raytracing techniques including reflection, soft shadows, and specular highlights.
 
+## Sample
+
+![Image](resources/untitled.png)
+
+
 ## Features
 
 - Raytracing with configurable bounce depth
