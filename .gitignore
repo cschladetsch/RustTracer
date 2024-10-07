@@ -1,0 +1,39 @@
+# Rust build directory
+/target/
+
+# Rust generated files
+**/*.rs.bk
+Cargo.lock
+
+# Generated raytracer output
+*.bmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Any other project-specific files you want to ignore
+# Add them here
